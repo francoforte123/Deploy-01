@@ -1,0 +1,4 @@
+spring:
+  devName: Emmanuele La Duca
+server:
+  port: 7070
